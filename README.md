@@ -1,7 +1,6 @@
 page_source
-===========
-
-Gem to fatch page source o a given url.
+=========
+Gem to fatch page source of a given url.
 
 How to use:
 Step 1. 
